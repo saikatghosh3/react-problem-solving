@@ -5,7 +5,11 @@ import './App.css'
 // import LivePreview from './components/LivePreview'
 // import ChangeBackground from './components/ChangeBackground'
 // import ToggleTheme from './components/ToggleTheme'
-import ChangeColor from './components/ChangeColor'
+// import ChangeColor from './components/ChangeColor'
+// import FormValidation from './components/formValidation'
+import SimpleTodo from './components/SimpleTodo'
+import ShowTask from './components/ShowTask'
+import FixedList from './components/FixedList'
 
 function App() {
  
@@ -17,7 +21,11 @@ function App() {
 <LivePreview/>
 <ChangeBackground/>
 <ToggleTheme/> */}
-<ChangeColor/>
+{/* <ChangeColor/> */}
+{/* <FormValidation/> */}
+{/* <SimpleTodo/> */}
+{/* <ShowTask /> */}
+<FixedList />
 
 </>
   )
