@@ -12,7 +12,10 @@ import './App.css'
 // import FixedList from './components/FixedList'
 // import FetchData from './components/FetchData'
 // import SimpleTable from './components/SimpleTable'
-import MediumTable from './components/MediumTable'
+// import MediumTable from './components/MediumTable'
+import CircularFlipCards from './components/CircularFlipCards'
+// import SlidingImageForm from './components/SlidingImageForm'
+import CardFanEffect from './components/CardFanEffect'
 
 function App() {
  
@@ -31,7 +34,10 @@ function App() {
 {/* <FixedList /> */}
 {/* <FetchData userId={1}/> */}
 {/* <SimpleTable/> */}
-<MediumTable/>
+{/* <MediumTable/> */}
+<CircularFlipCards/>
+{/* <SlidingImageForm/>   */}
+{/* <CardFanEffect/> */}
 
 </>
   )
