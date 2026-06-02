@@ -13,9 +13,12 @@ import './App.css'
 // import FetchData from './components/FetchData'
 // import SimpleTable from './components/SimpleTable'
 // import MediumTable from './components/MediumTable'
-import CircularFlipCards from './components/CircularFlipCards'
+// import CircularFlipCards from './components/CircularFlipCards'
 // import SlidingImageForm from './components/SlidingImageForm'
-import CardFanEffect from './components/CardFanEffect'
+// import CardFanEffect from './components/CardFanEffect'
+// import CounterApp from './components/CounterApp'
+// import FetchUser from './components/FetchUser'
+import CharacterCounter from './components/CharacterCounter'
 
 function App() {
  
@@ -35,9 +38,12 @@ function App() {
 {/* <FetchData userId={1}/> */}
 {/* <SimpleTable/> */}
 {/* <MediumTable/> */}
-<CircularFlipCards/>
+{/* <CircularFlipCards/> */}
 {/* <SlidingImageForm/>   */}
 {/* <CardFanEffect/> */}
+{/* <CounterApp/> */}
+{/* <FetchUser/> */}
+<CharacterCounter/>
 
 </>
   )
